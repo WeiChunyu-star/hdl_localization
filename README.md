@@ -5,8 +5,8 @@
 
 
 ## install hdl_localization
-### Requirements
-***hdl_localization*** requires the following libraries:
+***Requirements***
+hdl_localization requires the following libraries:
 - OpenMP
 - PCL 1.7
 
@@ -16,7 +16,7 @@ cd ~/catkin_ws
 catkin_make
 ```
 
-### Compile this repository
+***Compile this repository***
 ```bash
 cd ~/catkin_ws
 catkin_make
